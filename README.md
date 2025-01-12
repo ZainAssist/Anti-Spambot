@@ -41,7 +41,7 @@ $ python3 -m spr
 ```sh
 $ git clone https://github.com/ZainAssist/Anti-Spambot
 
-$ cd SpamProtectionRobot
+$ cd Anti-Spambot
 ```
 
 Edit **config.env** With Own Values.
